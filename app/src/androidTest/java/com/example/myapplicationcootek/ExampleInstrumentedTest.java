@@ -1,4 +1,4 @@
-package com.example.myapplicationcootek;
+package com.example.applicationshieldproject;
 
 import android.content.Context;
 
@@ -22,6 +22,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
 
-        assertEquals("com.example.myapplicationcootek", appContext.getPackageName());
+        assertEquals("com.example.applicationshieldproject", appContext.getPackageName());
     }
 }
