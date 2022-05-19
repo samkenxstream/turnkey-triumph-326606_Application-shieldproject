@@ -1,4 +1,4 @@
-package com.example.myapplicationcootek;
+package com.example.applicationshieldproject;
 
 import org.junit.Test;
 
